@@ -12,31 +12,38 @@ function devolverString(string) {
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
-   return (x + y);
+   let suma = x + y;
+   return suma;
 }
 
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
-   return (x - y);
+   let resta = x - y;
+   return resta;
 }
 
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
-   return (x / y);
+   let division = x / y;
+
+   return division
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
-   return (x * y);
+   let producto = x * y;
+   return producto;
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
-   return (x % y);
+   let restoDivision = x % y;
+
+   return restoDivision;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
